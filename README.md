@@ -14,7 +14,7 @@ _My journey of 1702 lines of linux commands using vmwareworkstation_
 A Windows Os User Keen To Learn Essential Linux Commands. Provided below Link to My Journey Of Using Basic Linux Commands Through Emulator Linux. And also provided is list of many useful basic linux command lines that I used.
 
 ### Link to My Journey | :alien:
-:link: - [Linux Link](https://github.com/beastgetssavvy13/1702-Linux-Cli/blob/master/cliterminal.txt)
+:link: - [Linux Link](https://github.com/itscharanp/1702-Linux-CLI/blob/master/Linux%20Command%20Line%20Terminal)
 
 ------------------------------------------------------------------------------------------------------------------------
 
